@@ -45,6 +45,7 @@ if(isset($_POST['Submit'])){
 <BR><a href="index.php">Kembali ke Laman Utama</a>
 	</fieldset>
 	</center>
+	<br>
 <?php
 }
  ?>
